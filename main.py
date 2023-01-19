@@ -2,7 +2,8 @@
 from time_calculator import add_time
 from unittest import main
 
-
+print(add_time("8:16 PM", "466:02", "tuesday"))
+print(add_time("3:00 PM", "3:10"))
 print(add_time("11:06 PM", "2:02"))
 
 
